@@ -1,0 +1,27 @@
+.body{
+	font-size: 50px;
+	font-family: arial;
+	color: #fff;
+	background: url(night.jpg);
+	background-size: cover;}
+
+.jam1{
+	padding: 235px 575px;
+	opacity: 60%;
+}
+
+#audio{
+	position: absolute;
+  	left: 50%;
+  	top: 50%;
+  	transform: translate(-50%, -50%);
+  	opacity: 60%;
+}
+
+#teks{
+	font-size: 15px;
+	position: absolute;
+  	left: 41%;
+  	top: 53%;
+  	opacity: 70%;
+}
